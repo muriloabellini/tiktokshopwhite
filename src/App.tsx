@@ -549,7 +549,7 @@ function App() {
           </button>
           <button 
             onClick={handleAddToCart}
-            className="flex-1 bg-[#272625] text-gray-900 h-10 rounded-md text-sm font-medium flex items-center justify-center leading-tight text-center border border-gray-300"
+            className="flex-1 bg-[##313131] text-white-900 h-10 rounded-md text-sm font-medium flex items-center justify-center leading-tight text-center border border-gray-300"
           >
             Adicionar<br />ao carrinho
           </button>
